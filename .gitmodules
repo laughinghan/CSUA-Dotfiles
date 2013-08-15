@@ -13,3 +13,6 @@
 [submodule "zipcodeman"]
 	path = zipcodeman
 	url = git://github.com/zipcodeman/dotfiles.git
+[submodule "laughinghan"]
+	path = laughinghan
+	url = git@github.com:laughinghan/dotfiles.git
